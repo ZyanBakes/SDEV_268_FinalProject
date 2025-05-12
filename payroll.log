@@ -1,0 +1,495 @@
+2025-05-11 12:13:46,811 - INFO - Returned to Admin Dashboard
+2025-05-11 12:13:49,475 - INFO - Application started
+2025-05-11 12:13:49,692 - INFO - Admin account HR0001 already exists
+2025-05-11 12:13:49,692 - INFO - Employees table already populated, skipping initialization
+2025-05-11 12:13:49,797 - INFO - Login screen initialized
+2025-05-11 12:13:51,410 - INFO - Application started
+2025-05-11 12:13:54,703 - INFO - Admin account HR0001 already exists
+2025-05-11 12:13:54,703 - INFO - Employees table already populated, skipping initialization
+2025-05-11 12:13:54,807 - INFO - Login screen initialized
+2025-05-11 12:14:14,774 - INFO - Admin menu displayed for HR0001
+2025-05-11 12:14:20,587 - INFO - Employee entry fields created
+2025-05-11 12:14:20,591 - ERROR - Failed to format employee E013: no such column: startDate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:14:20,591 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:14:20,591 - ERROR - Failed to format employee E001: no such column: startDate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:14:20,591 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:14:20,591 - ERROR - Failed to format employee E002: no such column: startDate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:14:20,591 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:14:20,592 - ERROR - Failed to format employee E003: no such column: startDate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:14:20,592 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:14:20,592 - ERROR - Failed to format employee E004: no such column: startDate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:14:20,592 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:14:20,592 - ERROR - Failed to format employee E005: no such column: startDate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:14:20,592 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:14:20,593 - ERROR - Failed to format employee E006: no such column: startDate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:14:20,593 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:14:20,593 - ERROR - Failed to format employee E007: no such column: startDate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:14:20,593 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:14:20,593 - ERROR - Failed to format employee E008: no such column: startDate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:14:20,593 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:14:20,593 - ERROR - Failed to format employee E009: no such column: startDate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:14:20,593 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:14:20,594 - ERROR - Failed to format employee E010: no such column: startDate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:14:20,594 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:14:20,594 - ERROR - Failed to format employee E011: no such column: startDate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:14:20,594 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:14:20,594 - ERROR - Failed to format employee E012: no such column: startDate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:14:20,594 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:14:20,594 - INFO - Populated Treeview with 0/13 items
+2025-05-11 12:14:20,594 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 12:14:20,596 - INFO - Populated Treeview with 0/0 items
+2025-05-11 12:14:20,596 - INFO - PTO Treeview populated
+2025-05-11 12:14:20,597 - INFO - Employee management buttons created
+2025-05-11 12:16:26,926 - WARNING - No employee selected for edit
+2025-05-11 12:16:33,543 - ERROR - Invalid empData: ['E001', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyan_bakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', 'None', '2022-08-15'], error: Invalid email format
+2025-05-11 12:18:32,409 - ERROR - Invalid empData: ['E001', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyan.bakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', 'None', '2022-08-15'], error: Invalid email format
+2025-05-11 12:18:33,339 - INFO - Application started
+2025-05-11 12:25:05,666 - INFO - Admin account HR0001 already exists
+2025-05-11 12:25:05,667 - INFO - Employees table already populated, skipping initialization
+2025-05-11 12:25:05,757 - INFO - Login screen initialized
+2025-05-11 12:25:36,257 - INFO - Admin menu displayed for HR0001
+2025-05-11 12:25:38,768 - INFO - Employee entry fields created
+2025-05-11 12:25:38,772 - ERROR - Failed to format employee E013: no such column: startDate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:25:38,773 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:25:38,773 - ERROR - Failed to format employee E001: no such column: startDate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:25:38,774 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:25:38,774 - ERROR - Failed to format employee E002: no such column: startDate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:25:38,774 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:25:38,775 - ERROR - Failed to format employee E003: no such column: startDate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:25:38,775 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:25:38,775 - ERROR - Failed to format employee E004: no such column: startDate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:25:38,776 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:25:38,776 - ERROR - Failed to format employee E005: no such column: startDate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:25:38,776 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:25:38,776 - ERROR - Failed to format employee E006: no such column: startDate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:25:38,776 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:25:38,776 - ERROR - Failed to format employee E007: no such column: startDate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:25:38,776 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:25:38,777 - ERROR - Failed to format employee E008: no such column: startDate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:25:38,777 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:25:38,777 - ERROR - Failed to format employee E009: no such column: startDate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:25:38,777 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:25:38,777 - ERROR - Failed to format employee E010: no such column: startDate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:25:38,777 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:25:38,778 - ERROR - Failed to format employee E011: no such column: startDate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:25:38,778 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:25:38,778 - ERROR - Failed to format employee E012: no such column: startDate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:25:38,778 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:25:38,778 - INFO - Populated Treeview with 0/13 items
+2025-05-11 12:25:38,778 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 12:25:38,779 - INFO - Populated Treeview with 0/0 items
+2025-05-11 12:25:38,780 - INFO - PTO Treeview populated
+2025-05-11 12:25:38,780 - INFO - Employee management buttons created
+2025-05-11 12:29:04,349 - INFO - Returned to Admin Dashboard
+2025-05-11 12:29:05,836 - INFO - Login screen initialized
+2025-05-11 12:29:05,836 - INFO - Logged out and returned to login screen
+2025-05-11 12:29:06,917 - INFO - Application started
+2025-05-11 12:29:10,758 - INFO - Admin account HR0001 already exists
+2025-05-11 12:29:10,758 - INFO - Employees table already populated, skipping initialization
+2025-05-11 12:29:10,853 - INFO - Login screen initialized
+2025-05-11 12:29:25,802 - INFO - Admin menu displayed for HR0001
+2025-05-11 12:29:32,819 - INFO - Employee entry fields created
+2025-05-11 12:29:32,824 - ERROR - Failed to format employee E013: no such column: startDate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:29:32,824 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:29:32,824 - ERROR - Failed to format employee E001: no such column: startDate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:29:32,825 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:29:32,825 - ERROR - Failed to format employee E002: no such column: startDate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:29:32,825 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:29:32,826 - ERROR - Failed to format employee E003: no such column: startDate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:29:32,826 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:29:32,826 - ERROR - Failed to format employee E004: no such column: startDate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:29:32,826 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:29:32,826 - ERROR - Failed to format employee E005: no such column: startDate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:29:32,826 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:29:32,826 - ERROR - Failed to format employee E006: no such column: startDate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:29:32,827 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:29:32,827 - ERROR - Failed to format employee E007: no such column: startDate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:29:32,827 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:29:32,827 - ERROR - Failed to format employee E008: no such column: startDate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:29:32,827 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:29:32,827 - ERROR - Failed to format employee E009: no such column: startDate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:29:32,827 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:29:32,828 - ERROR - Failed to format employee E010: no such column: startDate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:29:32,828 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:29:32,828 - ERROR - Failed to format employee E011: no such column: startDate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:29:32,828 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:29:32,828 - ERROR - Failed to format employee E012: no such column: startDate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:29:32,828 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:29:32,828 - INFO - Populated Treeview with 0/13 items
+2025-05-11 12:29:32,828 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 12:29:32,830 - INFO - Populated Treeview with 0/0 items
+2025-05-11 12:29:32,830 - INFO - PTO Treeview populated
+2025-05-11 12:29:32,831 - INFO - Employee management buttons created
+2025-05-11 12:31:25,899 - INFO - Validating employee data, email: '60602'
+2025-05-11 12:31:25,899 - INFO - Validating email: '60602'
+2025-05-11 12:31:25,900 - INFO - Email validation result for '60602': False
+2025-05-11 12:31:27,273 - ERROR - Invalid empData: ['E001', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', 'None', '2022-08-15'], error: Invalid email format
+2025-05-11 12:31:30,873 - INFO - Validating employee data, email: '60602'
+2025-05-11 12:31:30,873 - INFO - Validating email: '60602'
+2025-05-11 12:31:30,873 - INFO - Email validation result for '60602': False
+2025-05-11 12:31:31,999 - ERROR - Invalid empData: ['E001', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', 'None', '2022-08-15'], error: Invalid email format
+2025-05-11 12:31:56,673 - INFO - Returned to Admin Dashboard
+2025-05-11 12:31:58,082 - INFO - Employee entry fields created
+2025-05-11 12:31:58,085 - ERROR - Failed to format employee E013: no such column: startDate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:31:58,085 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:31:58,085 - ERROR - Failed to format employee E001: no such column: startDate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:31:58,085 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:31:58,086 - ERROR - Failed to format employee E002: no such column: startDate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:31:58,086 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:31:58,086 - ERROR - Failed to format employee E003: no such column: startDate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:31:58,086 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:31:58,086 - ERROR - Failed to format employee E004: no such column: startDate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:31:58,086 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:31:58,086 - ERROR - Failed to format employee E005: no such column: startDate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:31:58,087 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:31:58,087 - ERROR - Failed to format employee E006: no such column: startDate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:31:58,087 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:31:58,087 - ERROR - Failed to format employee E007: no such column: startDate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:31:58,087 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:31:58,087 - ERROR - Failed to format employee E008: no such column: startDate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:31:58,087 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:31:58,088 - ERROR - Failed to format employee E009: no such column: startDate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:31:58,088 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:31:58,088 - ERROR - Failed to format employee E010: no such column: startDate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:31:58,088 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:31:58,088 - ERROR - Failed to format employee E011: no such column: startDate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:31:58,088 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:31:58,088 - ERROR - Failed to format employee E012: no such column: startDate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:31:58,089 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:31:58,089 - INFO - Populated Treeview with 0/13 items
+2025-05-11 12:31:58,089 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 12:31:58,090 - INFO - Populated Treeview with 0/0 items
+2025-05-11 12:31:58,090 - INFO - PTO Treeview populated
+2025-05-11 12:31:58,091 - INFO - Employee management buttons created
+2025-05-11 12:32:08,433 - INFO - Returned to Admin Dashboard
+2025-05-11 12:38:02,192 - INFO - Login screen initialized
+2025-05-11 12:38:02,192 - INFO - Logged out and returned to login screen
+2025-05-11 12:38:03,173 - INFO - Application started
+2025-05-11 12:38:05,029 - INFO - Admin account HR0001 already exists
+2025-05-11 12:38:05,029 - INFO - Employees table already populated, skipping initialization
+2025-05-11 12:38:05,121 - INFO - Login screen initialized
+2025-05-11 12:38:26,323 - INFO - Admin menu displayed for HR0001
+2025-05-11 12:38:27,337 - INFO - Employee entry fields created
+2025-05-11 12:38:27,340 - ERROR - Failed to format employee E013: no such column: startDate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:38:27,341 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:38:27,341 - ERROR - Failed to format employee E001: no such column: startDate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:38:27,341 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:38:27,342 - ERROR - Failed to format employee E002: no such column: startDate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:38:27,342 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:38:27,342 - ERROR - Failed to format employee E003: no such column: startDate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:38:27,342 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:38:27,343 - ERROR - Failed to format employee E004: no such column: startDate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:38:27,343 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:38:27,343 - ERROR - Failed to format employee E005: no such column: startDate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:38:27,343 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:38:27,344 - ERROR - Failed to format employee E006: no such column: startDate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:38:27,344 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:38:27,344 - ERROR - Failed to format employee E007: no such column: startDate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:38:27,344 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:38:27,344 - ERROR - Failed to format employee E008: no such column: startDate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:38:27,345 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:38:27,345 - ERROR - Failed to format employee E009: no such column: startDate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:38:27,345 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:38:27,345 - ERROR - Failed to format employee E010: no such column: startDate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:38:27,345 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:38:27,345 - ERROR - Failed to format employee E011: no such column: startDate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:38:27,345 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:38:27,346 - ERROR - Failed to format employee E012: no such column: startDate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:38:27,346 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:38:27,346 - INFO - Populated Treeview with 0/13 items
+2025-05-11 12:38:27,346 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 12:38:27,348 - INFO - Populated Treeview with 0/0 items
+2025-05-11 12:38:27,348 - INFO - PTO Treeview populated
+2025-05-11 12:38:27,349 - INFO - Employee management buttons created
+2025-05-11 12:40:06,126 - INFO - Validating employee data, email: '60602'
+2025-05-11 12:40:06,126 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 12:40:06,126 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 12:40:12,802 - ERROR - Invalid empData: ['E001', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 'None', '2022-08-15'], error: Invalid numeric input for salary, hourly rate, or dependents
+2025-05-11 12:40:15,610 - INFO - Validating employee data, email: '60602'
+2025-05-11 12:40:15,610 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 12:40:15,610 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 12:40:19,234 - ERROR - Invalid empData: ['E001', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 'None', '2022-08-15'], error: Invalid numeric input for salary, hourly rate, or dependents
+2025-05-11 12:53:56,556 - INFO - Admin account HR0001 already exists
+2025-05-11 12:53:56,557 - INFO - Employees table already populated, skipping initialization
+2025-05-11 12:53:56,646 - INFO - Login screen initialized
+2025-05-11 12:54:16,594 - WARNING - Login failed: Invalid credentials for HR0001
+2025-05-11 12:54:25,123 - INFO - Admin menu displayed for HR0001
+2025-05-11 12:54:27,164 - ERROR - Failed to fetch weekly hours batch: no such column: t.hoursWorked
+2025-05-11 12:54:27,170 - INFO - Employee entry fields created
+2025-05-11 12:54:27,173 - ERROR - Failed to format employee E013: no such column: startDate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:54:27,174 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 12:54:27,174 - ERROR - Failed to format employee E001: no such column: startDate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:54:27,174 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 12:54:27,175 - ERROR - Failed to format employee E002: no such column: startDate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:54:27,175 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 12:54:27,175 - ERROR - Failed to format employee E003: no such column: startDate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:54:27,176 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 12:54:27,176 - ERROR - Failed to format employee E004: no such column: startDate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:54:27,176 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 12:54:27,176 - ERROR - Failed to format employee E005: no such column: startDate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:54:27,176 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 12:54:27,176 - ERROR - Failed to format employee E006: no such column: startDate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:54:27,176 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 12:54:27,177 - ERROR - Failed to format employee E007: no such column: startDate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:54:27,177 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 12:54:27,177 - ERROR - Failed to format employee E008: no such column: startDate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:54:27,177 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 12:54:27,177 - ERROR - Failed to format employee E009: no such column: startDate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:54:27,177 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 12:54:27,177 - ERROR - Failed to format employee E010: no such column: startDate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:54:27,178 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 12:54:27,178 - ERROR - Failed to format employee E011: no such column: startDate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:54:27,178 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 12:54:27,178 - ERROR - Failed to format employee E012: no such column: startDate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:54:27,178 - ERROR - Failed to format Treeview item: no such column: startDate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 12:54:27,178 - INFO - Populated Treeview with 0/13 items
+2025-05-11 12:54:27,178 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 12:54:27,179 - INFO - Populated Treeview with 0/0 items
+2025-05-11 12:54:27,180 - INFO - PTO Treeview populated
+2025-05-11 12:54:27,180 - INFO - Employee management buttons created
+2025-05-11 12:56:06,706 - INFO - Validating employee data, email: '60602'
+2025-05-11 12:56:06,706 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 12:56:06,706 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 12:56:14,936 - ERROR - Invalid empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 'None', '2022-08-15'], error: Invalid numeric input for salary, hourly rate, or dependents
+2025-05-11 12:57:04,758 - INFO - Validating employee data, email: '60602'
+2025-05-11 12:57:04,758 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 12:57:04,758 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 12:57:04,758 - ERROR - Error in insert: table employees has 20 columns but 21 values were supplied
+2025-05-11 13:40:20,982 - INFO - Validating employee data, email: '60602'
+2025-05-11 13:40:20,984 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:40:20,984 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:40:20,984 - ERROR - Error in insert: table employees has 20 columns but 21 values were supplied
+2025-05-11 13:40:23,868 - ERROR - Failed to add employee: table employees has 20 columns but 21 values were supplied, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:40:24,822 - ERROR - Failed to add employee: table employees has 20 columns but 21 values were supplied, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:40:54,457 - INFO - Validating employee data, email: '60602'
+2025-05-11 13:40:54,457 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:40:54,457 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:40:54,457 - ERROR - Error in insert: table employees has 20 columns but 21 values were supplied
+2025-05-11 13:41:05,965 - INFO - Validating employee data, email: '60602'
+2025-05-11 13:41:05,965 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:41:05,966 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:41:05,966 - ERROR - Error in insert: table employees has 20 columns but 21 values were supplied
+2025-05-11 13:41:57,622 - ERROR - Failed to add employee: table employees has 20 columns but 21 values were supplied, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:41:58,322 - ERROR - Failed to add employee: table employees has 20 columns but 21 values were supplied, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:47:02,458 - INFO - Login screen initialized
+2025-05-11 13:47:02,458 - INFO - Logged out and returned to login screen
+2025-05-11 13:47:04,757 - INFO - Application started
+2025-05-11 13:47:05,108 - INFO - Admin account HR0001 already exists
+2025-05-11 13:47:05,109 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:47:05,218 - INFO - Login screen initialized
+2025-05-11 13:47:05,430 - INFO - Admin account HR0001 already exists
+2025-05-11 13:47:05,431 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:47:05,569 - INFO - Login screen initialized
+2025-05-11 13:47:05,761 - INFO - Admin account HR0001 already exists
+2025-05-11 13:47:05,762 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:47:05,868 - INFO - Login screen initialized
+2025-05-11 13:47:06,047 - INFO - Admin account HR0001 already exists
+2025-05-11 13:47:06,048 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:47:06,139 - INFO - Login screen initialized
+2025-05-11 13:47:13,667 - INFO - Admin account HR0001 already exists
+2025-05-11 13:47:13,667 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:47:13,755 - INFO - Login screen initialized
+2025-05-11 13:48:13,729 - INFO - Admin account HR0001 already exists
+2025-05-11 13:48:13,729 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:48:13,819 - INFO - Login screen initialized
+2025-05-11 13:48:17,602 - INFO - Application started
+2025-05-11 13:48:22,218 - INFO - Admin account HR0001 already exists
+2025-05-11 13:48:22,218 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:48:22,304 - INFO - Login screen initialized
+2025-05-11 13:48:40,814 - INFO - Admin menu displayed for HR0001
+2025-05-11 13:48:42,858 - ERROR - Failed to fetch weekly hours batch: no such column: t.hoursWorked
+2025-05-11 13:48:42,877 - INFO - Employee entry fields created
+2025-05-11 13:48:42,883 - ERROR - Failed to format employee E013: no such column: pto_accrual_rate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 13:48:42,883 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 13:48:42,884 - ERROR - Failed to format employee E001: no such column: pto_accrual_rate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 13:48:42,884 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 13:48:42,885 - ERROR - Failed to format employee E002: no such column: pto_accrual_rate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 13:48:42,885 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 13:48:42,885 - ERROR - Failed to format employee E003: no such column: pto_accrual_rate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 13:48:42,885 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 13:48:42,885 - ERROR - Failed to format employee E004: no such column: pto_accrual_rate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 13:48:42,886 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 13:48:42,886 - ERROR - Failed to format employee E005: no such column: pto_accrual_rate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 13:48:42,886 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 13:48:42,886 - ERROR - Failed to format employee E006: no such column: pto_accrual_rate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 13:48:42,887 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 13:48:42,887 - ERROR - Failed to format employee E007: no such column: pto_accrual_rate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 13:48:42,887 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 13:48:42,887 - ERROR - Failed to format employee E008: no such column: pto_accrual_rate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 13:48:42,888 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 13:48:42,888 - ERROR - Failed to format employee E009: no such column: pto_accrual_rate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 13:48:42,888 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 13:48:42,888 - ERROR - Failed to format employee E010: no such column: pto_accrual_rate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 13:48:42,888 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 13:48:42,888 - ERROR - Failed to format employee E011: no such column: pto_accrual_rate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 13:48:42,888 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 13:48:42,889 - ERROR - Failed to format employee E012: no such column: pto_accrual_rate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 13:48:42,889 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 13:48:42,889 - INFO - Populated Treeview with 0/13 items
+2025-05-11 13:48:42,889 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 13:48:42,891 - INFO - Populated Treeview with 0/0 items
+2025-05-11 13:48:42,891 - INFO - PTO Treeview populated
+2025-05-11 13:48:42,892 - INFO - Employee management buttons created
+2025-05-11 13:48:47,375 - INFO - Validating employee data, email: '['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']'
+2025-05-11 13:48:51,031 - ERROR - Invalid empData: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], error: All required fields except Address 2 must be filled
+2025-05-11 13:50:23,372 - INFO - Validating employee data, email: '['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15']'
+2025-05-11 13:50:23,372 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:50:23,373 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:50:23,379 - ERROR - Error in insert: table employees has no column named phone
+2025-05-11 13:50:31,843 - ERROR - Failed to add employee: table employees has no column named phone, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:50:39,389 - INFO - Validating employee data, email: '['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15']'
+2025-05-11 13:50:39,389 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:50:39,390 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:50:39,390 - ERROR - Error in insert: table employees has no column named phone
+2025-05-11 13:50:41,043 - ERROR - Failed to add employee: table employees has no column named phone, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:51:29,031 - INFO - Validating employee data, email: '['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15']'
+2025-05-11 13:51:29,031 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:51:29,032 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:51:29,032 - ERROR - Error in insert: table employees has no column named phone
+2025-05-11 13:51:30,452 - ERROR - Failed to add employee: table employees has no column named phone, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:51:31,493 - INFO - Login screen initialized
+2025-05-11 13:51:31,493 - INFO - Logged out and returned to login screen
+2025-05-11 13:51:33,054 - INFO - Application started
+2025-05-11 13:51:37,832 - INFO - Admin account HR0001 already exists
+2025-05-11 13:51:37,833 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:51:37,921 - INFO - Login screen initialized
+2025-05-11 13:51:52,758 - INFO - Admin menu displayed for HR0001
+2025-05-11 13:51:54,404 - ERROR - Failed to fetch weekly hours batch: no such column: t.hoursWorked
+2025-05-11 13:51:54,410 - INFO - Employee entry fields created
+2025-05-11 13:51:54,415 - ERROR - Failed to format employee E013: no such column: pto_accrual_rate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 13:51:54,415 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 13:51:54,415 - ERROR - Failed to format employee E001: no such column: pto_accrual_rate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 13:51:54,416 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 13:51:54,416 - ERROR - Failed to format employee E002: no such column: pto_accrual_rate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 13:51:54,416 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 13:51:54,417 - ERROR - Failed to format employee E003: no such column: pto_accrual_rate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 13:51:54,417 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 13:51:54,417 - ERROR - Failed to format employee E004: no such column: pto_accrual_rate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 13:51:54,417 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 13:51:54,417 - ERROR - Failed to format employee E005: no such column: pto_accrual_rate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 13:51:54,417 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 13:51:54,417 - ERROR - Failed to format employee E006: no such column: pto_accrual_rate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 13:51:54,417 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 13:51:54,418 - ERROR - Failed to format employee E007: no such column: pto_accrual_rate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 13:51:54,418 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 13:51:54,418 - ERROR - Failed to format employee E008: no such column: pto_accrual_rate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 13:51:54,418 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 13:51:54,418 - ERROR - Failed to format employee E009: no such column: pto_accrual_rate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 13:51:54,418 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 13:51:54,418 - ERROR - Failed to format employee E010: no such column: pto_accrual_rate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 13:51:54,418 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 13:51:54,419 - ERROR - Failed to format employee E011: no such column: pto_accrual_rate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 13:51:54,419 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 13:51:54,419 - ERROR - Failed to format employee E012: no such column: pto_accrual_rate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 13:51:54,419 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 13:51:54,419 - INFO - Populated Treeview with 0/13 items
+2025-05-11 13:51:54,419 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 13:51:54,420 - INFO - Populated Treeview with 0/0 items
+2025-05-11 13:51:54,420 - INFO - PTO Treeview populated
+2025-05-11 13:51:54,421 - INFO - Employee management buttons created
+2025-05-11 13:53:41,953 - INFO - Validating employee data, email: '['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', '', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15']'
+2025-05-11 13:53:44,953 - ERROR - Invalid empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', '', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15'], error: All required fields except Address 2 must be filled
+2025-05-11 13:53:51,021 - INFO - Validating employee data, email: '['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15']'
+2025-05-11 13:53:51,021 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 13:53:51,021 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 13:53:51,028 - ERROR - Error in insert: table employees has no column named phone
+2025-05-11 13:53:53,765 - ERROR - Failed to add employee: table employees has no column named phone, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 13:53:55,511 - INFO - Application started
+2025-05-11 13:56:06,111 - INFO - Admin account HR0001 already exists
+2025-05-11 13:56:06,111 - INFO - Employees table already populated, skipping initialization
+2025-05-11 13:56:06,231 - INFO - Login screen initialized
+2025-05-11 14:09:08,158 - INFO - Application started
+2025-05-11 19:58:10,502 - INFO - Admin account HR0001 already exists
+2025-05-11 19:58:10,503 - INFO - Employees table already populated, skipping initialization
+2025-05-11 19:58:11,068 - INFO - Login screen initialized
+2025-05-11 19:58:16,112 - INFO - Application started
+2025-05-11 19:58:16,360 - INFO - Admin account HR0001 already exists
+2025-05-11 19:58:16,361 - INFO - Employees table already populated, skipping initialization
+2025-05-11 19:58:16,480 - INFO - Login screen initialized
+2025-05-11 19:58:17,823 - INFO - Application started
+2025-05-11 20:05:04,624 - INFO - Admin account HR0001 already exists
+2025-05-11 20:05:04,625 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:05:04,983 - INFO - Login screen initialized
+2025-05-11 20:05:26,012 - INFO - Admin menu displayed for HR0001
+2025-05-11 20:05:27,422 - ERROR - Failed to fetch weekly hours batch: no such column: t.hoursWorked
+2025-05-11 20:05:27,428 - INFO - Employee entry fields created
+2025-05-11 20:05:27,432 - ERROR - Failed to format employee E013: no such column: pto_accrual_rate, emp=('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 20:05:27,432 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E013', 'Samuel', 'Davis', '1987-10-17', 'Male', 'samuel.davis@abc.com', '720 Cherokee Drive', 'N/A', 'Indianapolis', 'IN', '46201', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2024-03-01')
+2025-05-11 20:05:27,433 - ERROR - Failed to format employee E001: no such column: pto_accrual_rate, emp=('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 20:05:27,433 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E001', 'David', 'Bowie', '1990-05-15', 'Male', 'david.bowie@abc.com', '123 Main St', '', 'Indianapolis', 'IN', '46201', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2020-01-15')
+2025-05-11 20:05:27,433 - ERROR - Failed to format employee E002: no such column: pto_accrual_rate, emp=('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 20:05:27,434 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E002', 'Janet', 'Sparrow', '1985-03-22', 'Female', 'janet.sparrow@abc.com', '456 Oak St', '', 'Indianapolis', 'IN', '46202', 'HR', 'Manager', 'Active', 'Salary', 80000.0, 0.0, 'Family', 2, '2018-06-10')
+2025-05-11 20:05:27,434 - ERROR - Failed to format employee E003: no such column: pto_accrual_rate, emp=('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 20:05:27,434 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E003', 'Angela', 'Black', '1995-07-10', 'Female', 'angela.black@abc.com', '789 Pine St', '', 'Indianapolis', 'IN', '46203', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 25.0, 'Single', 0, '2021-03-01')
+2025-05-11 20:05:27,435 - ERROR - Failed to format employee E004: no such column: pto_accrual_rate, emp=('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 20:05:27,435 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E004', 'William', 'Bronstone', '1988-11-30', 'Male', 'william.bronstone@abc.com', '101 Maple St', '', 'Indianapolis', 'IN', '46204', 'IT', 'Analyst', 'Active', 'Salary', 90000.0, 0.0, 'Family', 1, '2019-09-15')
+2025-05-11 20:05:27,435 - ERROR - Failed to format employee E005: no such column: pto_accrual_rate, emp=('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 20:05:27,435 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E005', 'Carol', 'Brown', '1993-02-18', 'Female', 'carol.brown@abc.com', '202 Cedar St', '', 'Indianapolis', 'IN', '46205', 'Marketing', 'Coordinator', 'Active', 'Hourly', 0.0, 22.0, 'Single', 0, '2022-01-20')
+2025-05-11 20:05:27,435 - ERROR - Failed to format employee E006: no such column: pto_accrual_rate, emp=('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 20:05:27,435 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E006', 'David', 'Wood', '1987-09-05', 'Male', 'david.wood@abc.com', '303 Birch St', '', 'Indianapolis', 'IN', '46206', 'Finance', 'Accountant', 'Active', 'Salary', 85000.0, 0.0, 'Family', 3, '2017-11-10')
+2025-05-11 20:05:27,435 - ERROR - Failed to format employee E007: no such column: pto_accrual_rate, emp=('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 20:05:27,435 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E007', 'Eveline', 'Baker', '1984-12-12', 'Female', 'eveline.baker@abc.com', '404 Elm St', '', 'Indianapolis', 'IN', '46207', 'Sales', 'Manager', 'Active', 'Salary', 95000.0, 0.0, 'Single', 0, '2016-05-05')
+2025-05-11 20:05:27,436 - ERROR - Failed to format employee E008: no such column: pto_accrual_rate, emp=('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 20:05:27,436 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E008', 'Frank', 'West', '1992-04-25', 'Male', 'frank.west@abc.com', '505 Spruce St', '', 'Indianapolis', 'IN', '46208', 'IT', 'Technician', 'Active', 'Hourly', 0.0, 28.0, 'Single', 0, '2020-07-25')
+2025-05-11 20:05:27,436 - ERROR - Failed to format employee E009: no such column: pto_accrual_rate, emp=('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 20:05:27,436 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E009', 'Grace', 'Law', '1996-08-08', 'Female', 'grace.law@abc.com', '606 Willow St', '', 'Indianapolis', 'IN', '46209', 'HR', 'Assistant', 'Active', 'Hourly', 0.0, 20.0, 'Single', 0, '2023-02-10')
+2025-05-11 20:05:27,436 - ERROR - Failed to format employee E010: no such column: pto_accrual_rate, emp=('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 20:05:27,436 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E010', 'Louis', 'Clark', '1983-06-20', 'Male', 'louis.clark@abc.com', '707 Ash St', '', 'Indianapolis', 'IN', '46210', 'Marketing', 'Director', 'Active', 'Salary', 100000.0, 0.0, 'Family', 2, '2015-08-15')
+2025-05-11 20:05:27,437 - ERROR - Failed to format employee E011: no such column: pto_accrual_rate, emp=('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 20:05:27,437 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E011', 'Isabella', 'Martinez', '1991-10-15', 'Female', 'isabella.martinez@abc.com', '808 Chestnut St', '', 'Indianapolis', 'IN', '46211', 'Finance', 'Analyst', 'Active', 'Hourly', 0.0, 27.0, 'Single', 0, '2021-11-01')
+2025-05-11 20:05:27,437 - ERROR - Failed to format employee E012: no such column: pto_accrual_rate, emp=('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 20:05:27,437 - ERROR - Failed to format Treeview item: no such column: pto_accrual_rate, item: ('E012', 'Jacob', 'Henderson', '1994-01-30', 'Male', 'jacob.henderson@abc.com', '909 Walnut St', '', 'Indianapolis', 'IN', '46212', 'Sales', 'Rep', 'Active', 'Hourly', 0.0, 24.0, 'Single', 0, '2022-04-20')
+2025-05-11 20:05:27,437 - INFO - Populated Treeview with 0/13 items
+2025-05-11 20:05:27,437 - INFO - Employee Treeview populated with 0 employees
+2025-05-11 20:05:27,438 - INFO - Populated Treeview with 0/0 items
+2025-05-11 20:05:27,439 - INFO - PTO Treeview populated
+2025-05-11 20:05:27,440 - INFO - Employee management buttons created
+2025-05-11 20:06:58,144 - INFO - Validating employee data, email: '['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', '0.0', '30.0', 'Single', '0', '2022-08-15']'
+2025-05-11 20:06:58,144 - INFO - Validating email: 'zyanbakes@abc.com'
+2025-05-11 20:06:58,144 - INFO - Email validation result for 'zyanbakes@abc.com': True
+2025-05-11 20:06:58,155 - ERROR - Error in insert: table employees has no column named department
+2025-05-11 20:07:05,436 - ERROR - Failed to add employee: table employees has no column named department, empData: ['E014', 'Zyan', 'Bakes', '2002-09-09', 'Male', 'zyanbakes@abc.com', '107 Millton Street', 'N/A', 'Chicago', 'IL', '60602', 'IT', 'Developer', 'Active', 'Hourly', 0.0, 30.0, 'Single', 0, '2022-08-15']
+2025-05-11 20:14:24,574 - INFO - Admin account HR0001 already exists
+2025-05-11 20:14:24,575 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:17:16,236 - INFO - Admin account HR0001 already exists
+2025-05-11 20:17:16,237 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:20:47,151 - INFO - Admin account HR0001 already exists
+2025-05-11 20:20:47,152 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:21:32,112 - INFO - Admin account HR0001 already exists
+2025-05-11 20:21:32,113 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:25:06,089 - INFO - Admin account HR0001 already exists
+2025-05-11 20:25:06,090 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:29:26,470 - INFO - Admin account HR0001 already exists
+2025-05-11 20:29:26,471 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:29:26,737 - INFO - Admin account HR0001 already exists
+2025-05-11 20:29:26,737 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:30:54,427 - INFO - Admin account HR0001 already exists
+2025-05-11 20:30:54,428 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:34:42,297 - INFO - Admin account HR0001 already exists
+2025-05-11 20:34:42,297 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:34:46,791 - INFO - Admin account HR0001 already exists
+2025-05-11 20:34:46,791 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:34:48,549 - INFO - Admin account HR0001 already exists
+2025-05-11 20:34:48,549 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:34:52,095 - INFO - Admin account HR0001 already exists
+2025-05-11 20:34:52,096 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:54:03,706 - INFO - Admin account HR0001 already exists
+2025-05-11 20:54:03,707 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:54:51,385 - ERROR - Error in update: no such column: phone
+2025-05-11 20:56:58,666 - INFO - Admin account HR0001 already exists
+2025-05-11 20:56:58,666 - INFO - Employees table already populated, skipping initialization
+2025-05-11 20:58:21,171 - ERROR - Error in update: no such column: phone
+2025-05-11 21:21:16,850 - INFO - Admin account HR0001 already exists
+2025-05-11 21:21:16,851 - INFO - Employees table already populated, skipping initialization
+2025-05-11 21:21:25,177 - INFO - Admin account HR0001 already exists
+2025-05-11 21:21:25,178 - INFO - Employees table already populated, skipping initialization
+2025-05-11 21:27:37,261 - INFO - Admin account HR0001 already exists
+2025-05-11 21:27:37,262 - INFO - Employees table already populated, skipping initialization
+2025-05-11 21:41:41,200 - INFO - Admin account HR0001 already exists
+2025-05-11 21:41:41,200 - INFO - Employees table already populated, skipping initialization
+2025-05-11 21:42:58,761 - INFO - Admin account HR0001 already exists
+2025-05-11 21:42:58,762 - INFO - Employees table already populated, skipping initialization
+2025-05-11 21:59:54,367 - INFO - Admin account HR0001 already exists
+2025-05-11 21:59:54,368 - INFO - Employees table already populated, skipping initialization
+2025-05-11 22:07:13,546 - INFO - Admin account HR0001 already exists
+2025-05-11 22:07:13,547 - INFO - Employees table already populated, skipping initialization
